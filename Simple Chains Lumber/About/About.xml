@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Simple Chains: Lumber</name>
+	<author>Owlchemist</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>
+		This mod piles on the workload needed to process trees into workable lumber. The raw, wooden logs that trees drop will have limited, direct usefulness. Instead, it is cut into lumber at the carpenter's trestle. This will yield green lumber, which can be used right away. But in order to get the most of your resources, it can be stacked to dry for a couple of days, yielding ordinary, ready-to-use lumber.
+		
+		And no more can your pawns shove entire tree trunks into the kitchen stove. Instead, it must be cut into firewood first. Gotta work hard!
+	</description>
+</ModMetaData>

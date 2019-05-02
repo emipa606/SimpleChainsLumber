@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<!-- Make trees drop raw logs -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>*/ThingDef/plant/harvestedThingDef[text()="WoodLog"]</xpath>
+		<value>
+			<harvestedThingDef>Owl_WoodLog</harvestedThingDef>
+		</value>
+	</Operation>
+	
+	<!-- Rewrite how vanilla wood looks to make it look like lumber -->
+	<Operation Class="PatchOperationSequence">
+		<success>Normal</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName="WoodLog"]/label</xpath>
+				<value>
+					<label>lumber</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName="WoodLog"]/description</xpath>
+				<value>
+					<description>Processed lumber can be used for a wide variety of construction and crafting applications, and is quick to work with.</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName="WoodLog"]/graphicData</xpath>
+				<value>
+					<graphicData>
+						<texPath>Things/Item/Resource/Owl_Lumber</texPath>
+						<graphicClass>Graphic_StackCount</graphicClass>
+						<color>(133,97,67)</color>
+					</graphicData>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<!-- Make exceptions for buildings requiring lumber that should probably use logs instead, where it makes sense -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>*/ThingDef[defName="Campfire" or defName="TorchLamp"]/costList</xpath> <!-- Both cost 20 in vanilla -->
+		<value>
+			<costList>
+				<Owl_WoodLog>20</Owl_WoodLog>
+			</costList>
+		</value>
+	</Operation>
+</Patch>			
