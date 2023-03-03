@@ -37,6 +37,7 @@
 		<altitudeLayer>Building</altitudeLayer>
 		<fillPercent>0.3</fillPercent>
 		<castEdgeShadows>true</castEdgeShadows>
+		<staticSunShadowHeight>0</staticSunShadowHeight>
 		<useHitPoints>True</useHitPoints>
 		<statBases>
 			<Mass>4</Mass>
