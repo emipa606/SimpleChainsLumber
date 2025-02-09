@@ -1,0 +1,4 @@
+# Changelog for SimpleChainsLumber
+
+1.5.1 - Updated to 1.5, uses the Processor Framework in all versions
+

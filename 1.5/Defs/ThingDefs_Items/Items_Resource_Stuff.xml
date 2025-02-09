@@ -30,7 +30,7 @@
       <color>(86,62,44)</color>
       <appearance>Planks</appearance>
       <constructEffect>ConstructWood</constructEffect>
-      <soundImpactStuff>BulletImpact_Wood</soundImpactStuff>
+      <soundImpactBullet>BulletImpact_Wood</soundImpactBullet>
       <soundMeleeHitSharp>MeleeHit_Wood</soundMeleeHitSharp>
       <soundMeleeHitBlunt>MeleeHit_Wood</soundMeleeHitBlunt>
       <statFactors>
@@ -90,7 +90,7 @@
       <color>(133,115,67)</color>
       <appearance>Planks</appearance>
       <constructEffect>ConstructWood</constructEffect>
-      <soundImpactStuff>BulletImpact_Wood</soundImpactStuff>
+      <soundImpactBullet>BulletImpact_Wood</soundImpactBullet>
       <soundMeleeHitSharp>MeleeHit_Wood</soundMeleeHitSharp>
       <soundMeleeHitBlunt>MeleeHit_Wood</soundMeleeHitBlunt>
       <statFactors>
