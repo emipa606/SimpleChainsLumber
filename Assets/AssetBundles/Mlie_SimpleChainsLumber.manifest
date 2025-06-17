@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3864749586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59e4702aa90c833874f7bdc5884d04ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 59e4702aa90c833874f7bdc5884d04ce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/wood_drying_rack_full_north.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/wood_drying_rack_northm.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Item/Resource/Owl_Firewood/owl_firewoodc.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Item/Resource/Owl_Firewood/owl_firewoodb.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/carpenters_trestle_eastm.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Item/Resource/Owl_Lumber/owl_lumberb.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Item/Resource/Owl_Firewood/owl_firewooda.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/wood_drying_rack_full_northm.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Item/Resource/Owl_Lumber/owl_lumberc.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/carpenters_trestle_east.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/carpenters_trestle_north.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/carpenters_trestle_northm.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Building/Production/wood_drying_rack_north.png
+- Assets/Data/Mlie.SimpleChainsLumber/Textures/Things/Item/Resource/Owl_Lumber/owl_lumbera.png
+Dependencies: []

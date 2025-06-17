@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: carpentry trestle -->
+  <Owl_CarpentersTrestle.label>carpentry trestle</Owl_CarpentersTrestle.label>
+  <!-- EN: A pair of trestles can be used for basic woodworking tasks. -->
+  <Owl_CarpentersTrestle.description>A pair of trestles can be used for basic woodworking tasks.</Owl_CarpentersTrestle.description>
+  <!-- EN: wood drying rack -->
+  <Owl_WoodDryingRack.label>wood drying rack</Owl_WoodDryingRack.label>
+  <!-- EN: Green lumber can be stored here where it can air dry. But it is susceptible to bad weather. -->
+  <Owl_WoodDryingRack.description>Green lumber can be stored here where it can air dry. But it is susceptible to bad weather.</Owl_WoodDryingRack.description>
+</LanguageData>

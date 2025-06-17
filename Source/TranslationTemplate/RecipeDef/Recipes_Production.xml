@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make firewood -->
+  <Owl_MakeFirewood.label>make firewood</Owl_MakeFirewood.label>
+  <!-- EN: Make a batch of firewood using available wood. -->
+  <Owl_MakeFirewood.description>Make a batch of firewood using available wood.</Owl_MakeFirewood.description>
+  <!-- EN: Making firewood from wood. -->
+  <Owl_MakeFirewood.jobString>Making firewood from wood.</Owl_MakeFirewood.jobString>
+  <!-- EN: make green lumber -->
+  <Owl_MakeGreenLumber.label>make green lumber</Owl_MakeGreenLumber.label>
+  <!-- EN: Make a batch of green lumber using wood logs. -->
+  <Owl_MakeGreenLumber.description>Make a batch of green lumber using wood logs.</Owl_MakeGreenLumber.description>
+  <!-- EN: Making green lumber from wood logs. -->
+  <Owl_MakeGreenLumber.jobString>Making green lumber from wood logs.</Owl_MakeGreenLumber.jobString>
+</LanguageData>

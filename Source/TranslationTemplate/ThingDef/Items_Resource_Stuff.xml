@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: green lumber -->
+  <Owl_GreenLumber.label>green lumber</Owl_GreenLumber.label>
+  <!-- EN: This lumber has been cut from logs, but has yet to be dried out in a controlled environment. -->
+  <Owl_GreenLumber.description>This lumber has been cut from logs, but has yet to be dried out in a controlled environment.</Owl_GreenLumber.description>
+  <!-- EN: rough wooden -->
+  <Owl_GreenLumber.stuffProps.stuffAdjective>rough wooden</Owl_GreenLumber.stuffProps.stuffAdjective>
+  <!-- EN: wood log -->
+  <Owl_WoodLog.label>wood log</Owl_WoodLog.label>
+  <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
+  <Owl_WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</Owl_WoodLog.description>
+  <!-- EN: log -->
+  <Owl_WoodLog.tools.log.label>log</Owl_WoodLog.tools.log.label>
+</LanguageData>

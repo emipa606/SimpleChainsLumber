@@ -8,6 +8,7 @@
     <li>1.3</li>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -66,8 +67,6 @@ A. Both of these can be made out of raw logs instead. If it doesn't come up as a
 [*]The drying pallet texture has been provided by dickmosi from his [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2890728877]Practical Pallets[/url] mod.
 [/list]
 
-[url=https://github.com/Owlchemist/simple-chains-lumber]Github[/url]
-
 [hr]
 [h1][url=https://steamcommunity.com/id/owlchemist/myworkshopfiles/?appid=294100]🦉See my other mods[/url][/h1]
 
@@ -80,6 +79,8 @@ A. Both of these can be made out of raw logs instead. If it doesn't come up as a
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3424121395][img]https://img.shields.io/github/v/release/emipa606/SimpleChainsLumber?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  challenge,  woodworking</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
 </ModMetaData>

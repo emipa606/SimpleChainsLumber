@@ -1,4 +1,4 @@
-# [Simple Chains: Lumber (Continued)]()
+# [Simple Chains: Lumber (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3424121395)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -49,8 +49,6 @@ A. Both of these can be made out of raw logs instead. If it doesn't come up as a
 
 
 
-[Github](https://github.com/Owlchemist/simple-chains-lumber)
-
 [hr]
 # [🦉See my other mods](https://steamcommunity.com/id/owlchemist/myworkshopfiles/?appid=294100)
 
@@ -67,4 +65,6 @@ A. Both of these can be made out of raw logs instead. If it doesn't come up as a
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/SimpleChainsLumber?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3424121395) | tags:  challenge,  woodworking
